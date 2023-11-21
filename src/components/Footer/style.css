@@ -1,0 +1,256 @@
+.footer {
+  background-color: #333333;
+  height: 667px;
+  position: relative;
+  width: 1920px;
+}
+
+.footer .line-3 {
+  height: 1px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 543px;
+  width: 1722px;
+}
+
+.footer .group-9 {
+  height: 39px;
+  left: 100px;
+  position: absolute;
+  top: 577px;
+  width: 202px;
+}
+
+.footer .text-wrapper-6 {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 30.6px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: -1.53px;
+  line-height: 35.1px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-7 {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 30.6px;
+  font-weight: 500;
+  left: 177px;
+  letter-spacing: -1.53px;
+  line-height: 35.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-8 {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 98px;
+  letter-spacing: -1.2px;
+  line-height: 27.6px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-9 {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 319px;
+  letter-spacing: -1.2px;
+  line-height: 27.6px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-10 {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1187px;
+  letter-spacing: -0.32px;
+  line-height: 24.6px;
+  position: absolute;
+  top: 100px;
+  width: 524px;
+}
+
+.footer .work-services-about {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 101px;
+  letter-spacing: -0.32px;
+  line-height: 33.8px;
+  position: absolute;
+  top: 142px;
+}
+
+.footer .facebook-instagram {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 354px;
+  letter-spacing: -0.32px;
+  line-height: 33.8px;
+  position: absolute;
+  top: 142px;
+}
+
+.footer .text-wrapper-11 {
+  color: #91919166;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 1187px;
+  letter-spacing: -0.2px;
+  line-height: 15.4px;
+  position: absolute;
+  top: 279px;
+  width: 492px;
+}
+
+.footer .text-wrapper-12 {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1187px;
+  letter-spacing: -0.32px;
+  line-height: 24.6px;
+  position: absolute;
+  top: 591px;
+  white-space: nowrap;
+}
+
+.footer .overlap-group-wrapper {
+  height: 80px;
+  left: 1187px;
+  position: absolute;
+  top: 168px;
+  width: 509px;
+}
+
+.footer .overlap-group {
+  background-color: #ffffff;
+  border-radius: 4px;
+  height: 80px;
+  position: relative;
+  width: 507px;
+}
+
+.footer .text-wrapper-13 {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 30px;
+  letter-spacing: -1.2px;
+  line-height: 27.6px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.footer .vector-3 {
+  height: 20px;
+  left: 453px;
+  position: absolute;
+  top: 30px;
+  width: 24px;
+}
+
+.footer .frame-2 {
+  height: 182px;
+  left: 309px;
+  position: absolute;
+  top: 137px;
+  width: 42px;
+}
+
+.footer .group-10 {
+  height: 126px;
+  left: 100px;
+  position: absolute;
+  top: 376px;
+  width: 1594px;
+}
+
+.footer .group-11 {
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 989px;
+}
+
+.footer .text-wrapper-14 {
+  color: #919191;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.48px;
+  line-height: 36.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.footer .group-12 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 987px;
+}
+
+.footer .frame-3 {
+  align-items: center;
+  background-color: var(--primary-20);
+  border-radius: 6px;
+  display: flex;
+  gap: 21px;
+  justify-content: center;
+  left: 1087px;
+  padding: 21px 132px;
+  position: absolute;
+  top: 51px;
+  width: 507px;
+  margin-left: 10px;
+}
+
+.footer .text-wrapper-15 {
+  color: var(--secondary-10);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.8px;
+  line-height: 32.8px;
+  margin-left: -24.65px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .subtract-2 {
+  height: 27.31px;
+  margin-right: -24.65px;
+  position: relative;
+  width: 27.31px;
+}
