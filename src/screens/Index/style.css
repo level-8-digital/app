@@ -17,8 +17,16 @@ body {
   overflow: hidden;
   position: relative;
   width: 1280px;
-  scale: 1.2;
-  top: 540px;
+
+}
+
+@media screen and (min-width:1281px) {
+
+  .index .div-2 {
+    scale: 1.2;
+    top: 540px;
+  }
+
 }
 
 .index .overlap {
